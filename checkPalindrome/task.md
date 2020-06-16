@@ -15,7 +15,7 @@ Given the string, check if it is a palindrome.
 * For inputString = "a", the output should be
   `checkPalindrome(inputString) = true`.
 
-# Input/output
+# Input/Output
 
 * [execution time limit] 0.5 seconds (cpp)
 
