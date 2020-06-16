@@ -11,7 +11,7 @@ Given a year, return the century it is in. The first century spans from the year
 * For year = 1905, the output should be `centuryFromYear(year) = 20`;
 * For year = 1700, the output should be `centuryFromYear(year) = 17`.
 
-# Input/output
+# Input/Output
 
 * [execution time limit] 0.5 seconds (cpp)
 
