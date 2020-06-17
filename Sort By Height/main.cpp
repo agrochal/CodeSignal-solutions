@@ -6,9 +6,9 @@ std::vector<int> sortByHeight(std::vector<int> a) {
     sort(t.begin(), t.end());
 
     int p = 0;
-    for(int i=0;i<a.size();i++){
-        if(a[i]!=-1){
-            a[i] = t[p];
+    for(int &x:a){
+        if(x!=-1){
+            x = t[p];
             p++;
         }
     }
