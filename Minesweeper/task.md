@@ -1,5 +1,5 @@
 # Minesweeper
-Source: CodeSignal <br>
+Source: Arcade | Intro | Island of Knowledge <br>
 Points: 300/300
 
 # Description

@@ -1,5 +1,5 @@
 # buildPalindrome
-Source: CodeSignal <br>
+Source: Arcade | Intro | Eruption of Light <br>
 Points: 300/300
 
 # Description

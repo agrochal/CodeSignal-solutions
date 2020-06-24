@@ -1,5 +1,5 @@
 # depositProfit
-Source: CodeSignal <br>
+Source: Arcade | Intro | Through the Fog <br>
 Points: 300/300
 
 # Description

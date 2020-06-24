@@ -1,5 +1,5 @@
 # deleteDigit
-Source: CodeSignal <br>
+Source: Arcade | Intro | Rainbow of Clarity <br>
 Points: 300/300
 
 # Description

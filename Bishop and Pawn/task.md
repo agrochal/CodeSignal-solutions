@@ -1,5 +1,5 @@
 # Bishop and Pawn
-Source: CodeSignal <br>
+Source: Arcade | Intro | Dark Wilderness <br>
 Points: 300/300
 
 # Description

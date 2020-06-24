@@ -1,5 +1,5 @@
 # firstDigit
-Source: CodeSignal <br>
+Source: Arcade | Intro | Diving Deeper <br>
 Points: 300/300
 
 # Description

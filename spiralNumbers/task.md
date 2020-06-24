@@ -1,5 +1,5 @@
 # spiralNumbers
-Source: CodeSignal <br>
+Source: Arcade | Intro | Land of Logic <br>
 Points: 300/300
 
 # Description

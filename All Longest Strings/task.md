@@ -1,5 +1,5 @@
 # All Longest Strings
-Source: CodeSignal <br>
+Source: Arcade | Intro | Smooth Sailing <br>
 Points: 300/300
 
 # Description

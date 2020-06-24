@@ -1,5 +1,5 @@
 # alternatingSums
-Source: CodeSignal <br>
+Source: Arcade | Intro | Exploring the Waters <br>
 Points: 300/300
 
 # Description
