@@ -1,7 +1,2 @@
-# coding-tasks
-Repository containing coding problems and their solutions.
-
-Sources:
-* CodeSignal
-* OI
-* OIG
+# CodeSignal-solutions
+Repository containing problems from CodeSignal and their solutions.
